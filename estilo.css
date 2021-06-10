@@ -252,3 +252,14 @@ footer{
 .divMenuInferior{
     padding-left: 4em;
 }
+@media screen  and (max-width:480px){
+    header{
+        background-image: url("img/headerm1.jpg");
+         height: 10vh;
+        color:whitesmoke;
+         font-family: 'Roboto', sans-serif;
+        font-weight: 300;
+    
+        padding: 10vh 2vw 0px ;
+    }
+}
